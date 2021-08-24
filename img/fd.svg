@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="770px" height="400px" viewBox="0 0 770 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #4CAF50;">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 16 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M409,270 C455.391919,270 493,230.824916 493,182.5 C493,134.175084 455.391919,95 409,95 C362.608081,95 325,134.175084 325,182.5 C325,230.824916 362.608081,270 409,270 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="6" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="5" dy="6" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="413" y="147" width="21" height="48"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="21" height="48" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="371" y="140" width="77" height="88"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="2" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="416" y="148" width="18" height="45"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18" height="45" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="395" y="211" width="15" height="26"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="26" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="427" y="220" width="8" height="15" rx="1"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="15" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="440" y="146" width="5" height="52"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5" height="52" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="374" y="146" width="5" height="62"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="5" height="62" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+    </defs>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-16-Copy-2">
+            <g id="Oval-46">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use stroke="#FFFFFF" stroke-width="12" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <ellipse id="Oval-90" stroke="#979797" fill="#D8D8D8" cx="396.5" cy="174.5" rx="6.5" ry="9.5"></ellipse>
+            <use id="Rectangle-105" stroke="#747171" mask="url(#mask-4)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-3"></use>
+            <g id="circuit" transform="translate(-1.000000, 100.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="90.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0.5,5 L86.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(2.000000, 116.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="135.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L131.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(3.000000, 133.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="172.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L168.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(-1.000000, 157.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="203.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L198.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(3.000000, 177.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="238.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L233.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(-1.000000, 100.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="90.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0.5,5 L86.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(725.000000, 99.000000) scale(-1, 1) translate(-725.000000, -99.000000) translate(677.000000, 94.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="90.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0.5,5 L86.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(2.000000, 116.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="135.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L131.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(710.500000, 116.000000) scale(-1, 1) translate(-710.500000, -116.000000) translate(640.000000, 111.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="135.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L131.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(3.000000, 133.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="172.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L168.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(702.000000, 138.000000) scale(-1, -1) translate(-702.000000, -138.000000) translate(613.000000, 133.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="172.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L168.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(-1.000000, 157.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="203.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L198.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(685.000000, 157.000000) scale(-1, 1) translate(-685.000000, -157.000000) translate(580.000000, 152.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="203.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L198.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(3.000000, 177.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="238.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L233.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(668.500000, 177.000000) scale(-1, 1) translate(-668.500000, -177.000000) translate(546.000000, 172.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="238.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L233.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(-1.000000, 318.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="90.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0.5,5 L86.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(742.000000, 323.000000) scale(-1, 1) translate(-742.000000, -323.000000) translate(694.000000, 318.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="90.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0.5,5 L86.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(-1.000000, 295.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="135.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L131.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(728.500000, 298.000000) scale(-1, 1) translate(-728.500000, -298.000000) translate(658.000000, 293.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="135.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L131.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(-1.000000, 274.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="172.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L168.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(710.000000, 274.000000) scale(-1, 1) translate(-710.000000, -274.000000) translate(621.000000, 269.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="172.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L168.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(3.000000, 244.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="203.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L198.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(694.000000, 244.000000) scale(-1, 1) translate(-694.000000, -244.000000) translate(589.000000, 239.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="203.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L198.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(-1.000000, 223.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="238.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L233.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(676.500000, 223.000000) scale(-1, 1) translate(-676.500000, -223.000000) translate(554.000000, 218.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="238.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L233.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(2.000000, 200.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="283.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L278.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(668.000000, 200.000000) scale(-1, 1) translate(-668.000000, -200.000000) translate(523.000000, 195.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="283.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L278.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(725.000000, 99.000000) scale(-1, 1) translate(-725.000000, -99.000000) translate(677.000000, 94.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="90.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0.5,5 L86.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(710.500000, 116.000000) scale(-1, 1) translate(-710.500000, -116.000000) translate(640.000000, 111.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="135.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L131.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(702.000000, 138.000000) scale(-1, -1) translate(-702.000000, -138.000000) translate(613.000000, 133.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="172.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L168.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(685.000000, 157.000000) scale(-1, 1) translate(-685.000000, -157.000000) translate(580.000000, 152.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="203.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L198.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(668.500000, 177.000000) scale(-1, 1) translate(-668.500000, -177.000000) translate(546.000000, 172.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="238.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L233.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(742.000000, 323.000000) scale(-1, 1) translate(-742.000000, -323.000000) translate(694.000000, 318.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="90.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0.5,5 L86.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(728.500000, 298.000000) scale(-1, 1) translate(-728.500000, -298.000000) translate(658.000000, 293.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="135.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L131.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(710.000000, 274.000000) scale(-1, 1) translate(-710.000000, -274.000000) translate(621.000000, 269.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="172.5" cy="5" rx="5.5" ry="5"></ellipse>
+                <path d="M0,5 L168.5,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(694.000000, 244.000000) scale(-1, 1) translate(-694.000000, -244.000000) translate(589.000000, 239.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="203.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L198.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(676.500000, 223.000000) scale(-1, 1) translate(-676.500000, -223.000000) translate(554.000000, 218.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="238.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L233.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <g id="circuit" transform="translate(668.000000, 200.000000) scale(-1, 1) translate(-668.000000, -200.000000) translate(523.000000, 195.000000)">
+                <ellipse id="Oval-49" fill="#FFFFFF" cx="283.511236" cy="5" rx="6.48876404" ry="5"></ellipse>
+                <path d="M0,5 L278.792135,5" id="Line" stroke="#FFFFFF" stroke-width="6" stroke-linecap="square"></path>
+            </g>
+            <path d="M380.5,212.5 L376.5,212.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <g id="Rectangle-100">
+                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                <use fill="#4990E2" fill-rule="evenodd" xlink:href="#path-5"></use>
+            </g>
+            <use id="Rectangle-106" stroke="#000000" mask="url(#mask-8)" stroke-width="2" fill="#514E4E" xlink:href="#path-7"></use>
+            <use id="Rectangle-101" stroke="#5A5A5A" mask="url(#mask-10)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-9"></use>
+            <use id="Rectangle-102" stroke="#000000" mask="url(#mask-12)" stroke-width="2" fill="#3A3838" xlink:href="#path-11"></use>
+            <path d="M381,226 C383.209139,226 385,224.209139 385,222 C385,219.790861 383.209139,218 381,218 C378.790861,218 377,219.790861 377,222 C377,224.209139 378.790861,226 381,226 Z" id="Oval-87" stroke="#000000" fill="#BA041A"></path>
+            <use id="Rectangle-104" stroke="#000000" mask="url(#mask-14)" stroke-width="2" fill="#5E5C5C" xlink:href="#path-13"></use>
+            <use id="Rectangle-104" stroke="#000000" mask="url(#mask-16)" stroke-width="2" fill="#5E5C5C" xlink:href="#path-15"></use>
+            <circle id="Oval-88" stroke="#595858" fill="#D8D8D8" cx="427.5" cy="213.5" r="4.5"></circle>
+            <circle id="Oval-88" stroke="#595858" fill="#D8D8D8" cx="427.5" cy="202.5" r="4.5"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="770px" height="400px" viewBox="0 0 770 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #151515;">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 16 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M402.5,279 C453.586339,279 495,237.586339 495,186.5 C495,135.413661 453.586339,94 402.5,94 C351.413661,94 310,135.413661 310,186.5 C310,237.586339 351.413661,279 402.5,279 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="5" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-16-Copy">
+            <g id="Oval-46">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#DA2696" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="U" font-family="Roboto-Black, Roboto" font-size="128" font-weight="700" fill="#FFFFFF">
+                <tspan x="359.46875" y="235">U</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
