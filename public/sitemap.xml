@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dheerajb.com/</loc>
+    <lastmod>2021-03-21T09:57:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/post/</loc>
+    <lastmod>2021-03-21T09:57:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/post/nginxssl/</loc>
+    <lastmod>2021-03-21T09:57:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/post/firstpost/</loc>
+    <lastmod>2021-03-21T06:59:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/categories/</loc>
+    <lastmod>2021-03-21T09:53:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/tags/css/</loc>
+    <lastmod>2021-03-21T09:53:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/tags/html/</loc>
+    <lastmod>2021-03-21T09:53:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/tags/markdown/</loc>
+    <lastmod>2021-03-21T09:53:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/post/markdown/</loc>
+    <lastmod>2021-03-21T09:22:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/categories/syntax/</loc>
+    <lastmod>2021-03-21T09:53:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/tags/</loc>
+    <lastmod>2021-03-21T09:53:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/tags/themes/</loc>
+    <lastmod>2021-03-21T09:53:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/categories/themes/</loc>
+    <lastmod>2021-03-21T09:53:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dheerajb.com/readme/</loc>
+    <lastmod>2021-03-21T09:53:17+00:00</lastmod>
+  </url>
+  
+</urlset>
